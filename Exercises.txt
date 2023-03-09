@@ -1,0 +1,11 @@
+Exercise 1
+
+Build a text analyzer.
+
+-> Create a navbar. Pass the name by props
+-> An input area for text
+-> Use states
+-> Buttons to convert text to lowercase, uppercase, clear
+-> Below will also show count words, characters and vowels
+-> implement these remove extra spaces, copy text to clipboard
+-> dark mode
